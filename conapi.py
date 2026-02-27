@@ -1,0 +1,10 @@
+# config.py
+
+# API Keys
+API_KEY = "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"
+DEEPSEEK_URL = "deepseek/deepseek-chat-v3-0324:free"
+SERP_API_KEY = "b617196eb05a566be4e3ff71f20180ca4ca2c16ce192130209a195d0fcec2dd0"
+
+# ElevenLabs TTS
+ELEVENLABS_API_KEY = "sk_6cd5a000c214fd1cfcb28dbbae782781179f60398973c0b2"
+VOICE_ID = "iP95p4xoKVk53GoZ742B"
